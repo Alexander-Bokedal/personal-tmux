@@ -1,4 +1,5 @@
 #!/bin/bash
+#Ready for git
 
 tmux new-session  \; \
   split-window -v  \; \

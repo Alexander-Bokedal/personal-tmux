@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Ready for git
 
 cd ~/programmering/egnaprojekt/ReSpark/Respark
 

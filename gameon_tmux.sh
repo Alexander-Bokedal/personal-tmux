@@ -1,4 +1,5 @@
 #!/bin/bash
+#Ready for git
 
 tmux new-session \; \
   send-keys 'discord' C-m \; \
